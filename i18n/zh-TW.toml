@@ -41,7 +41,7 @@ other = "zh-tw"
   other = "© 2020 Rocky Linux 專案(C)版權所有."
 
   [copyright.line2]
-  other = "CentOS 是 Red Hat, Inc. 的註冊商標，Rocky Linux 專案與 Red Hat, Inc. 無關, 也不需要獲得其授權"
+  other = "CentOS 是 Red Hat, Inc. 的註冊商標，Rocky Linux 專案與 Red Hat, Inc. 無關，也不需要獲得其授權"
 
 [errors]
   [errors.404]
