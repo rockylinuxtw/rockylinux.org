@@ -3,10 +3,10 @@ other = "zh-tw"
 
 [links]
   [links.get-involved]
-  other = "參與其中"
+  other = "一展長才"
 
   [links.get-in-touch]
-  other = "保持聯絡"
+  other = "聯絡我們"
 
   [links.go-home]
   other = "回到首頁"
@@ -18,7 +18,7 @@ other = "zh-tw"
   other = "參考文件"
 
   [links.join-the-discussion]
-  other = "參與討論"
+  other = "加入討論"
 
 [socials]
   [socials.twitter]
@@ -38,7 +38,7 @@ other = "zh-tw"
 
 [copyright]
   [copyright.line1]
-  other = "© 2020 Rocky Linux 專案(C)版權所有."
+  other = "© 2020 Rocky Linux 專案．版權所有."
 
   [copyright.line2]
   other = "CentOS 是 Red Hat, Inc. 的註冊商標，Rocky Linux 專案與 Red Hat, Inc. 無關，也不需要獲得其授權"
@@ -46,10 +46,10 @@ other = "zh-tw"
 [errors]
   [errors.404]
     [errors.404.title]
-    other = "找不到網頁。"
+    other = "找不到這個網頁。"
 
     [errors.404.explanation]
-    other = "目前無法開啟網頁，請稍後再試。"
+    other = "目前無法開啟這個網頁，請稍後再試。"
 
 [landing]
   [landing.p1.heading]
@@ -70,10 +70,10 @@ other = "zh-tw"
 
   [faq.q]
     [faq.q.downstream-partner-direction]
-    other = "為什麼要改變？"
+    other = "「CentOS 發展方向的改變」是什麼意思？"
 
     [faq.q.come-in]
-    other = "如何取得 Rocky Linux？"
+    other = "Rocky Linux 為何而生？"
 
   [faq.a]
     [faq.a.downstream-partner-direction]
