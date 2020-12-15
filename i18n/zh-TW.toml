@@ -77,7 +77,7 @@ other = "zh-tw"
 
   [faq.a]
     [faq.a.downstream-partner-direction]
-    other = "CentOS 專案[最近宣佈](https://blog.centos.org/2020/12/future-is-centos-stream/)發行策略上的改變，原本 CentOS 是基於 RHEL 的社群發行版（從 RHEL 接收修補程式和更新），但改成 CentOS Stream 之後反而成為了 RHEL 的前測版本（為 RHEL 測試修補程式和更新）。除此之外，CentOS 8 的生命週期也從 2029 年 5 月 31 日被縮短到 2021 年 12 月 31 日。"
+    other = "CentOS 專案最近宣佈了發行策略上的改變，原本 CentOS 是基於 RHEL 的社群發行版（從 RHEL 接收修補程式和更新），但改成 CentOS Stream 之後反而成為了 RHEL 的前測版本（為 RHEL 測試修補程式和更新）。除此之外，CentOS 8 的生命週期也從 2029 年 5 月 31 日被縮短到 2021 年 12 月 31 日。"
 
     [faq.a.come-in]
     other = "Rocky Linux 的目標是延續 CentOS 先前的模式釋出發行版，而不是像 CentOS Stream 一樣成為 RHEL 的前測版本。"
